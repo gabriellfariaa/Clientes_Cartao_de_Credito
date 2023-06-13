@@ -4,6 +4,9 @@ Este repositório contém um projeto de análise de dados utilizando o algoritmo
 ## Conjunto de Dados
 O conjunto de dados utilizado pode ser encontrado em: Credit Card Customer Data
 
+![image](https://github.com/gabriellfariaa/Clientes_Cartao_de_Credito/blob/main/Clientes.png?raw=true)
+
+
 As características presentes nos dados são as seguintes:
 
 - Avg_Credit_Limit: Limite médio do cartão de crédito para o cliente
@@ -13,8 +16,6 @@ As características presentes nos dados são as seguintes:
 - Total_calls_made: Total de ligações efetuadas pelo cliente ao banco
 
 ![image](https://github.com/gabriellfariaa/Clientes_Cartao_de_Credito/blob/main/Data.info.png?raw=true)
-
-
 
 
 ## Objetivo
@@ -30,5 +31,9 @@ Fonte: https://www.kaggle.com/datasets/aryashah2k/credit-card-customer-data
 Execute o arquivo Script-Cartao.R para realizar a categorização dos clientes utilizando o algoritmo de K-Means Clustering.
 Analise os resultados obtidos e as categorias formadas para melhor compreensão dos perfis dos clientes.
 Sinta-se à vontade para explorar o código e adaptá-lo às suas necessidades específicas.
+
+## Analisando por meio de estatísticas descritivas
+
+
 
 ## Conclusão
