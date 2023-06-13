@@ -12,6 +12,11 @@ As características presentes nos dados são as seguintes:
 - Total_visits_online: Total de visitas online do cliente ao banco
 - Total_calls_made: Total de ligações efetuadas pelo cliente ao banco
 
+![image](https://github.com/gabriellfariaa/Clientes_Cartao_de_Credito/blob/main/Data.info.png?raw=true)
+
+
+
+
 ## Objetivo
 O objetivo deste projeto é categorizar os clientes da operadora de cartão de crédito com base nas características fornecidas. Utilizando o algoritmo de K-Means Clustering, os clientes serão agrupados em clusters com base em suas similaridades.
 
