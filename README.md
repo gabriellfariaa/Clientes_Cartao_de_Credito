@@ -4,9 +4,6 @@ Este repositório contém um projeto de análise de dados utilizando o algoritmo
 ## Conjunto de Dados
 O conjunto de dados utilizado pode ser encontrado em: Credit Card Customer Data
 
-![image](https://github.com/gabriellfariaa/Clientes_Cartao_de_Credito/blob/main/Clientes.png?raw=true)
-
-
 As características presentes nos dados são as seguintes:
 
 - Avg_Credit_Limit: Limite médio do cartão de crédito para o cliente
@@ -16,7 +13,7 @@ As características presentes nos dados são as seguintes:
 - Total_calls_made: Total de ligações efetuadas pelo cliente ao banco
 
 ![image](https://github.com/gabriellfariaa/Clientes_Cartao_de_Credito/blob/main/Data.info.png?raw=true)
-
+![image](https://github.com/gabriellfariaa/Clientes_Cartao_de_Credito/blob/main/Clientes.png?raw=true)
 
 ## Objetivo
 O objetivo deste projeto é categorizar os clientes da operadora de cartão de crédito com base nas características fornecidas. Utilizando o algoritmo de K-Means Clustering, os clientes serão agrupados em clusters com base em suas similaridades.
@@ -32,8 +29,16 @@ Execute o arquivo Script-Cartao.R para realizar a categorização dos clientes u
 Analise os resultados obtidos e as categorias formadas para melhor compreensão dos perfis dos clientes.
 Sinta-se à vontade para explorar o código e adaptá-lo às suas necessidades específicas.
 
+## Identificação numero de Cluster = 4
+
+![image](https://github.com/gabriellfariaa/Clientes_Cartao_de_Credito/blob/main/Elbow.png?raw=true)
+
+
 ## Analisando por meio de estatísticas descritivas
+![image](https://github.com/gabriellfariaa/Clientes_Cartao_de_Credito/blob/main/Analise%20descritiva.png?raw=true)
 
+- Clientes com Avg_Limite > ~45.000, que talvez clientes fiéis façam menos chamadas (0-2) do que os clientes com Avg_Limit ~10.000 a 15.000;
+- Clientes com 1-4 Cartões de Crédito fazem mais de 5 chamadas (4-8)
+- Clientes que visitam bancos com menos frequência fazem mais ligações.
 
-
-## Conclusão
+![image](https://github.com/gabriellfariaa/Clientes_Cartao_de_Credito/blob/main/conclus%C3%A3o.png?raw=true)
